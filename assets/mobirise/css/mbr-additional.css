@@ -785,3 +785,107 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#menu-1 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1 .navbar-caption {
+  color: #ffffff;
+}
+#menu-1 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1 .close-icon::before,
+#menu-1 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1 .link,
+#menu-1 .dropdown-item {
+  color: #ffffff;
+}
+#menu-1 .link {
+  font-size: 0.875rem;
+}
+#menu-1 .dropdown-item,
+#menu-1 .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-1 .link:hover,
+#menu-1 .link:focus {
+  color: #f39c12;
+}
+#menu-1 .dropdown-item:hover::before,
+#menu-1 .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-1 .dropdown-item:hover,
+#menu-1 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-1 .link[aria-expanded="true"],
+#menu-1 .dropdown-menu {
+  background: #c87f0a;
+}
+#menu-1 .nav-dropdown-sm .link:focus,
+#menu-1 .nav-dropdown-sm .link:hover,
+#menu-1 .nav-dropdown-sm .dropdown-item:focus,
+#menu-1 .nav-dropdown-sm .dropdown-item:hover {
+  background: #ea940c!important;
+}
+#menu-1 .navbar,
+#menu-1 .nav-dropdown-sm,
+#menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1 .nav-dropdown-sm .dropdown-menu {
+  background: #f39c12;
+}
+#menu-1 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1 .bg-color.transparent.opened .link:hover,
+#menu-1 .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-1 .link[aria-expanded="true"],
+#menu-1 .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#shop1-2 .galleryItem h4:hover {
+  color: #f39c12;
+}
+#shop1-2 .mbr-gallery-filter ul li.active {
+  color: #f39c12;
+}
+#shop1-2 .mbr-gallery-filter ul li:hover {
+  color: #f39c12;
+}
+#shop1-2 .mbr-gallery-filter ul li:before {
+  background: #f39c12;
+}
+#shop1-2 .min-toggle:hover,
+#shop1-2 .max-toggle:hover {
+  background-color: #f39c12;
+}
+#shop1-2 .shop-title {
+  font-family: Arvo;
+}
+#shop1-2 .categories-titles .mbr-gallery-filter ul li {
+  font-family: Arvo;
+}
+#shop1-2 .max-input {
+  font-family: Arvo;
+}
+#shop1-2 .min-input {
+  font-family: Arvo;
+}
+#shop1-2 .item-title {
+  font-family: Arvo;
+}
+#shop1-2 .card-description {
+  font-family: Open Sans;
+}
+#shop1-2 .shop-item-price {
+  font-family: Montserrat;
+}
